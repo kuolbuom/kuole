@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/myimages"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "juol"
+	}
+}
